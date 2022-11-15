@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px;
+    font-size: 37px;
+}
+
+.select{
+    font-size: 30px;
+}
+
+.ul{
+    margin-left: 400px ;
+}
+

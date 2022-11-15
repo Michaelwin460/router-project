@@ -1,0 +1,20 @@
+/* .wrap{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}  */
+
+
+.title{
+    margin-left: 400px;
+    font-size: 30px;
+}
+
+.navbar{
+    margin-left: 150px;
+}
+.spans{
+    margin-left: 170px;
+    padding: 20px;
+    font-size: 20px;
+}

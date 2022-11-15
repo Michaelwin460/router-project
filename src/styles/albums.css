@@ -1,0 +1,17 @@
+.container{
+    display: flex ;
+    justify-items: center;
+}
+
+.navbar{
+    border-right: solid 1px;
+    padding: 1rem;
+}
+
+.link{
+    display: block;
+    margin: 1rem 0 
+}
+
+
+
